@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="node">
+    <Basepaths>/</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1506914647630</CreatedAt>
+    <CreatedBy>manish8.s@tcs.com</CreatedBy>
+    <DisplayName>node</DisplayName>
+    <LastModifiedAt>1506914647630</LastModifiedAt>
+    <LastModifiedBy>manish8.s@tcs.com</LastModifiedBy>
+    <Policies/>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources>
+        <Resource>node://README.md</Resource>
+        <Resource>node://config.js</Resource>
+        <Resource>node://package.json</Resource>
+        <Resource>node://server.js</Resource>
+    </Resources>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
